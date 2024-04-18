@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
+<h3 align="center">A passionate frontend developer from Brazil, i am just starting my journey in this world</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acaj0&label=Profile%20views&color=0e75b6&style=flat" alt="acaj0" /> </p>
 
+- 📫 How to reach me **Antoniocarlosjr007@hotmail.com**
+
+- ⚡ Fun fact **I Have a band in Spotify, named Overblown**
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">Antoniocarlosjr007@hotmail.com
+<p align="left">
+<a href="https://linkedin.com/in/acaj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acaj0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
