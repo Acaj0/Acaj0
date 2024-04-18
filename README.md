@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Antoniocarlosjr007@hotmail.com**
 
-- ⚡ Fun fact **I Have a band in Spotify, named Overblown**
+- ⚡ Fun fact **I have a band in spotify, named Overblown**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
