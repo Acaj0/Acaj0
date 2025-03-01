@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **Antoniocarlosjr007@hotmail.com**
 
-- ⚡ Fun fact **I have a band in spotify, named Overblown**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/acaj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acaj0" height="30" width="40" /></a>
